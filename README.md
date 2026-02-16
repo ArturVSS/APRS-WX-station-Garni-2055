@@ -12,6 +12,7 @@ Stacja pogodowa APRS przy wykorzystaniu urządzenia  Hydrawise Garni 2055 ARCUS
  Biblioteka: BresserWeatherSensorReceiver v0.37.0 (podstawa)
  
  Interfejs WWW by SP3VSS 2k26
+ 
  Wpisz w "KONFIGURACJA APRS I WIFI" swoje dane, potem możesz je zmień poprzez stronę WWW
 
 Program w wesji z stroną www:
