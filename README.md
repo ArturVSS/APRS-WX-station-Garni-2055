@@ -43,17 +43,27 @@ Połączenia:
 
 BME280:
 SDA  -> GPIO2
+
 SCL  -> GPIO5
+
 3.3V -> 3.3V
+
 GND  -> GND
+
 
 CC1101:
 GDO0 -> GPIO4
+
 SCK  -> GPIO14
+
 MISO -> GPIO12
+
 MOSI -> GPIO13
+
 CS   -> GPIO15
+
 3.3V -> 3.3V
+
 GND  -> GND
 
 
