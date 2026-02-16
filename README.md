@@ -1,5 +1,8 @@
 Stacja pogodowa APRS przy wykorzystaniu urządzenia  Hydrawise Garni 2055 ARCUS
 
+![ba902190f1ad4248ac2cc03eb01fbc54](https://github.com/user-attachments/assets/81e40a49-57ca-4203-8acc-2eecd520e0b7)
+
+
  Główny autor oprogranowania: 
  
  SP3WRO https://github.com/SP3WRO/BresserWeatherSensorBasicAPRS
