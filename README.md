@@ -1,6 +1,9 @@
 Stacja pogodowa APRS przy wykorzystaniu urządzenia  Hydrawise Garni 2055 ARCUS
 
- Główny autor oprogranowania: SP3WRO https://github.com/SP3WRO/BresserWeatherSensorBasicAPRS
+ Główny autor oprogranowania: 
+ 
+ SP3WRO https://github.com/SP3WRO/BresserWeatherSensorBasicAPRS
+ 
  
  Integracja: Bresser 7-in-1 + ESP8266 + BME280 + CC1101 -> APRS (TCP) + WebUI
  Biblioteka: BresserWeatherSensorReceiver v0.37.0 (podstawa)
