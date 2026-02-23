@@ -16,6 +16,10 @@ POWINNO DZIAŁAĆ Z KAŻDĄ STACJĄ POGOdOWĄ WYKORZYSTUJĄCĄ PROTOKÓŁ "Bress
  Biblioteka: BresserWeatherSensorReceiver v0.37.0 (podstawa)
  
  Interfejs WWW by SP3VSS 2k26
+
+
+Plik APRS-WX-station-Garni-2055_mqtt_wzgl zawiera wersję z obsługą MQTT i przeliczaniem ciśnienia wzgldnego
+ 
  
  Wpisz w "KONFIGURACJA APRS I WIFI" swoje dane, potem możesz je zmień poprzez stronę WWW
 
