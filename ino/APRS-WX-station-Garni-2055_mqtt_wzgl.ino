@@ -29,11 +29,11 @@
 // --- KONFIGURACJA APRS I WIFI
 String WIFI_SSID     = "Xiaomi2G";
 String WIFI_PASS     = "dupablada";
-String APRS_CALLSIGN = "SQ3MKP-13";
-String APRS_PASSCODE = "22702";
-double SITE_LAT      = 52.3659;
-double SITE_LON      = 16.9489;
-float  SITE_ALT      = 85.0;       // wysokość stacji n.p.m. [m] - edytowalne przez WebUI
+String APRS_CALLSIGN = "SP0AAA-13";
+String APRS_PASSCODE = "12345";
+double SITE_LAT      = 52.1234;
+double SITE_LON      = 16.1234;
+float  SITE_ALT      = 25.0;       // wysokość stacji n.p.m. [m] - edytowalne przez WebUI
 // ==========================================================================
 
 // ==========================================================================
