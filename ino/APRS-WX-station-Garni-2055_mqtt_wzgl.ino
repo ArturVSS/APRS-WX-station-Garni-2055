@@ -27,8 +27,8 @@
 
 // ==========================================================================
 // --- KONFIGURACJA APRS I WIFI
-String WIFI_SSID     = "Xiaomi2G";
-String WIFI_PASS     = "dupablada";
+String WIFI_SSID     = "SSID";
+String WIFI_PASS     = "password";
 String APRS_CALLSIGN = "SP0AAA-13";
 String APRS_PASSCODE = "12345";
 double SITE_LAT      = 52.1234;
