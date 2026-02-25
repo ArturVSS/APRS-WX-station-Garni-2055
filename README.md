@@ -18,8 +18,10 @@ POWINNO DZIAŁAĆ Z KAŻDĄ STACJĄ POGOdOWĄ WYKORZYSTUJĄCĄ PROTOKÓŁ "Bress
  Interfejs WWW by SP3VSS 2k26
 
 
-Plik APRS-WX-station-Garni-2055_mqtt_wzgl zawiera wersję z obsługą MQTT i przeliczaniem ciśnienia wzgldnego
- 
+Plik APRS-WX-station-Garni-2055_mqtt_wzgl.ino zawiera wersję z obsługą MQTT i przeliczaniem ciśnienia względnego
+
+Plik APRS-WX-station-Garni-2055_www_mqtt_wzgl_uart.ino zawiera wersję z obsługą MQTT i przeliczaniem ciśnienia względnego, wysyłanie danych na UART.
+Uwaga! zmiana pinów (czytaj info w pliku INO i na stronie WWW) 
  
  Wpisz w "KONFIGURACJA APRS I WIFI" swoje dane, potem możesz je zmień poprzez stronę WWW
 
