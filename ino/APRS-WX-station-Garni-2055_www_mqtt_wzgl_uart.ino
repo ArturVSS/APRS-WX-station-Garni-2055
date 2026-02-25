@@ -5,6 +5,9 @@
 // Biblioteka: BresserWeatherSensorReceiver v0.37.0
 // Lepszego programu już nie wymyślę - SP3WRO
 //
+// Interfejs WWW i inne fiuczery by SP3VSS 2k26
+// Wpisz w "KONFIGURACJA APRS I WIFI" swoje dane, potem możesz je zmień poprzez stronę WWW
+//
 // MAPA PINÓW ESP8266 (Wemos D1 Mini):
 //   CC1101 SCK    → GPIO14 (D5)
 //   CC1101 MISO   → GPIO12 (D6)
