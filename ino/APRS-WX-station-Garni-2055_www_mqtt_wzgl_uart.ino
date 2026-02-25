@@ -60,7 +60,7 @@ String   MQTT_HOST    = "broker.hivemq.com";
 uint16_t MQTT_PORT    = 1883;
 String   MQTT_USER    = "";
 String   MQTT_PASS    = "";
-String   MQTT_TOPIC   = "wx/SQ3MKP-13";
+String   MQTT_TOPIC   = "wx/SP0AAA-13";
 bool     MQTT_ENABLED = false;
 // ==========================================================================
 
